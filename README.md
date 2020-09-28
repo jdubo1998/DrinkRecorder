@@ -15,7 +15,7 @@ all participants.
 ### Calculations:
 Inputs contains the amount of US ounces a person consumes as well as the alcoholic percentage the liquid contains.
 
-standard US alcoholic drink measurements:
+Common measurements for 1 standard US drink:
 > Beer: 12 fl oz at 5% alcohol.  
 > Malt Liquor: 8-9 fl oz at 7% alcohol.  
 > Wine: 5 fl oz at 12% alcohol.  
