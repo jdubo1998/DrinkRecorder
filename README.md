@@ -2,6 +2,7 @@
 
 Python program that records the amount of standard US alcoholic drinks a given participant consumes on a certain day.
 Using this information, graphical charts will be used to display certain characteristics over a set period of time.
+Uses the Tkinter interface for the GUI and the pyplot interface for graphs.
 
 ### Graphs:
 **Chart 1 - Timeline:**
