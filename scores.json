@@ -1,7 +1,7 @@
 {
     "Players": [
         {
-            "name": "ParticipantOne",
+            "name": "Participant One",
             "id": 0,
             "Scores": [
                 {
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "name": "ParticipantTwo",
+            "name": "Participant Two",
             "id": 1,
             "Scores": [
                 {
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "name": "ParticipantThree",
+            "name": "Participant Three",
             "id": 2,
             "Scores": [
                 {
