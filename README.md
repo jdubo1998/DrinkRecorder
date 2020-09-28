@@ -21,6 +21,6 @@ Common measurements for 1 standard US drink:
 > Wine: 5 fl oz at 12% alcohol.  
 > Spirit: 1.5 fl oz at 40% alcohol.  
 >
-> Each standard drink contains 0.6 fl oz of 100% pure alcohol.
+> Each standard drink contains 0.6 fl oz of 100% alcohol.
 
 Using this, calculations are performed that are added to the records for each participant.
