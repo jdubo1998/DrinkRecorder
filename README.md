@@ -1,9 +1,9 @@
-#Drink Recorder
+#Drink Recorder#
 
 Python program that records the amount of standard US alcoholic drinks a given participant consumes on a certain day.
 Using this information, graphical charts will be used to display certain characteristics over a set period of time.
 
-###Graphs:
+###Graphs:###
 **Chart 1 - Timeline:**
 Provides a timeline where each date creates a histogram containing the amount of drinks consumed by each
 participant on that given date.
@@ -12,7 +12,7 @@ participant on that given date.
 Creates a pie graph that compares each participant's consumption of drinks in relation to the total amount consumed by 
 all participants.
 
-###Calculations:
+###Calculations:###
 Inputs contains the amount of US ounces a person consumes as well as the alcoholic percentage the liquid contains.
 
 standard US alcoholic drink measurements:
