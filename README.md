@@ -35,4 +35,5 @@ Using this, calculations are performed that are added to the records for each pa
 **Graphs Screenshot 3:**
 ![Graphs Screenshot 3](https://i.postimg.cc/28G3Rng7/Graphs-example3.png "May 26th, 2020 to May 31st, 2020 w/ May Pie Chart")
 **GUI Screenshot:**
-![GUI Screenshot](https://i.postimg.cc/RhQh0th9/GUI-example1.png "GUI screenshot.")
+![GUI Screenshot]
+(https://i.postimg.cc/RhQh0th9/GUI-example1.png "GUI screenshot.")
