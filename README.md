@@ -24,3 +24,15 @@ Common measurements for 1 standard US drink:
 > Each standard drink amounts to 0.6 fl oz of 100% alcohol.
 
 Using this, calculations are performed that are added to the records for each participant.
+
+### Example Images:
+**Data was collected during the month of May, 2020.**
+
+**Graphs Screenshot 1:**
+![Graphs Screenshot 1](https://i.postimg.cc/Y21hR53V/Graphs-example1.png "May 1st, 2020 to May 5th, 2020 w/ May Pie Chart")
+**Graphs Screenshot 2:**
+![Graphs Screenshot 2](https://i.postimg.cc/PrTNRSVq/Graphs-example2.png "May 14th, 2020 to May 19th, 2020 w/ May Pie Chart")
+**Graphs Screenshot 3:**
+![Graphs Screenshot 3](https://i.postimg.cc/28G3Rng7/Graphs-example3.png "May 26th, 2020 to May 31st, 2020 w/ May Pie Chart")
+**GUI Screenshot:**
+![GUI Screenshot](https://i.postimg.cc/RhQh0th9/GUI-example1.png "GUI screenshot.")
