@@ -4,7 +4,7 @@ Python program that records the amount of standard US alcoholic drinks a given p
 Using this information, graphical charts will be used to display certain characteristics over a set period of time.
 Uses the Tkinter interface for the GUI and the pyplot interface for graphs.
 
-#### Deprecating this python code in order to move towards Java for a mobile app version.
+#### This project is deprecated, in order to move towards a mobile app instead.
 
 ### Graphs:
 **Chart 1 - Timeline:**
