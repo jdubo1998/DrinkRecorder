@@ -4,6 +4,8 @@ Python program that records the amount of standard US alcoholic drinks a given p
 Using this information, graphical charts will be used to display certain characteristics over a set period of time.
 Uses the Tkinter interface for the GUI and the pyplot interface for graphs.
 
+#### Deprecating this python code in order to move towards Java for a mobile app version.
+
 ### Graphs:
 **Chart 1 - Timeline:**
 Provides a timeline where each date creates a histogram containing the amount of drinks consumed by each
@@ -36,5 +38,5 @@ Using this, calculations are performed that are added to the records for each pa
 **Graphs Screenshot 3:**
 ![Graphs Screenshot 3](https://i.postimg.cc/28G3Rng7/Graphs-example3.png "May 26th, 2020 to May 31st, 2020 w/ May Pie Chart")
 **GUI Screenshot:**
-
+Empty space will have added functionality to edit participants or dates.
 ![GUI Screenshot](https://i.postimg.cc/RhQh0th9/GUI-example1.png "GUI screenshot.")
